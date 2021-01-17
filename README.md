@@ -1,1 +1,1 @@
-Version-Control-Demo
+유니티의 버전관리를 학습을 위한 데모폴더이다.
