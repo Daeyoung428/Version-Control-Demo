@@ -1,4 +1,4 @@
 # Table of contents
 
-* [README](README.md)
+* [Unity-AEC Project Manual](README.md)
 
