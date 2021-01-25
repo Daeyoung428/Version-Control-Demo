@@ -10,8 +10,9 @@ description: AEC분야 유니티 프로젝트 제작을 위한 프로세스 및 
 
 ### 1. 1. 프로젝트 버전관리를 위해 필요한  툴
 
-* GitHub \([https://github.com/](https://github.com/)\) - 원격으로 저장할 수 있는 공간으로 가장 범용적으로 쓰이고 있는 깃허브를 사용한다.
-* Sourcetree \([https://sourcetreeapp.com/](https://sourcetreeapp.com/)\) - 명령프롬프트에 깃 커맨드 명령을 대체할 수 있는 사용편이성 위주의 유저-인터페이스 깃 솔루션으로 비교적 이해하기 쉽게 구성되어있다.
-* Gitkreken \([https://www.gitkraken.com/](https://www.gitkraken.com/)\) - 전문적인 형상 및 버전관리 툴로 많은 기능을 보유하고 있으나 팀 단위의 프로젝트 수행 보다는 개인이 로컬로 버전관리하기에 가장 적합한 툴이다. 
+* GitHub \([https://github.com/](https://github.com/)\) - 원격으로 저장할 수 있는 공간으로 전세계적으로 가장 범용적으로 쓰이고 있다.
+* Sourcetree \([https://sourcetreeapp.com/](https://sourcetreeapp.com/)\) - 커맨드 명령을 대체할 수 있는 사용편이성 위주의 유저-인터페이스 깃 솔루션으로 비교적 이해하기 쉽게 구성되어있다.
+* Gitkraken \([https://www.gitkraken.com/](https://www.gitkraken.com/)\) - 전문적인 형상 및 버전관리 툴로 많은 기능을 보유하고 있다.  본 프로젝트에서는 팀 단위 프로젝트 수행 보다는 개인 로컬 버전관리를 위해 사용하로 한다.
 
-1. 
+### 1. 2. 
+
