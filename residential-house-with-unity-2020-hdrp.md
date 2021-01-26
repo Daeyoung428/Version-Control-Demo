@@ -14,16 +14,18 @@ The courses in this series will help you prepare for the Unity Certified 3D Arti
 
 For the first part of the course, you'll get an introduction to the course and its Challenge/Solution format, then jump into importing and configuring assets for the Kitchen Configurator project.
 
-#### 1. 1. 1. 자료 확보
-
-* **3D Model**: SketchUp \(Original\) -&gt; AutoCAD -&gt; 3ds Max -&gt; FBX Converter
-* Reference Model
-  * Unity Korea: [유니티 서울 오피스 프로젝트로 살펴보는 HDRP](http://www.unitysquare.co.kr/growwith/resource/form?id=50)
-  * VR Development: [Photorealistic Architecture Pre-Visualization](https://learn.unity.com/course/unity-photorealistic-architecture-pre-visualization)
-
 ### 1. 1. Asset Import and Configuration
 
 For the first part of the course, you'll get an introduction to the course and its Challenge/Solution format, then jump into importing and configuring assets for the Kitchen Configurator project.
+
+#### Prepare Asset
+
+* **3D Model**:
+  * Residential House:  [Rendering Engines for Product and Industrial Visualization](https://www.lynda.com/course-tutorials/Rendering-Engines-Product-Industrial-Visualization/759093-2.html)
+  * Kitchen FBX Contents:  [Unity Certified 3D Artist Specialization](https://www.coursera.org/specializations/unity-3d-artist)
+* **Reference Model**
+  * Unity Korea office: [유니티 서울 오피스 프로젝트로 살펴보는 HDRP](http://www.unitysquare.co.kr/growwith/resource/form?id=50)
+  * VR Development: [Photorealistic Architecture Pre-Visualization](https://learn.unity.com/course/unity-photorealistic-architecture-pre-visualization)
 
 ### 1. 2. Material Creation
 
