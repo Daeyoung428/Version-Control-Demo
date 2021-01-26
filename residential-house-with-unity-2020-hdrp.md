@@ -17,9 +17,12 @@ For the first part of the course, you'll get an introduction to the course and i
 #### 1. 1. 1. 자료 확보
 
 * **3D Model**: SketchUp \(Original\) -&gt; AutoCAD -&gt; 3ds Max -&gt; FBX Converter
-  * \[
+  * 
 * Reference Model
-  * Unity Korea: [유니티 서울 오피스 프로젝트로 살펴보는 HDRP](http://www.unitysquare.co.kr/growwith/resource/form?id=50) \[Seoul Office\]\(D:\AEC Projects\SeoulOffice\_Project\MeetingRoom\)
+  * Unity Korea: [유니티 서울 오피스 프로젝트로 살펴보는 HDRP](http://www.unitysquare.co.kr/growwith/resource/form?id=50)
+    * Link: \[Google\]\[googlelink\]
+
+      \[googlelink\]: [https://google.com](https://google.com) "Go google"
   * VR Development: [Photorealistic Architecture Pre-Visualization](https://learn.unity.com/course/unity-photorealistic-architecture-pre-visualization)
 
 ### 1. 1. Asset Import and Configuration
